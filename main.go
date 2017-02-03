@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/prometheus/alertmanager/template"
-	"github.com/prometheus/client_golang/prometheus"
+        "github.com/prometheus/alertmanager/tree/master/template"
+        "github.com/prometheus/client_golang/tree/master/prometheus"
 )
 
 var (
